@@ -43,7 +43,7 @@ ChatGPT 5.1 (thinking) スタイラー比較プロジェクト
 `inputs/` ディレクトリに新しいテストケースを追加：
 
 ```bash
-echo "あなたの質問" > inputs/input_004.txt
+echo "あなたの質問" inputs/input_004.txt
 ```
 
 ### 2. 各スタイラーで実行
